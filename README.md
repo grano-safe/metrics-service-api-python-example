@@ -85,4 +85,4 @@ resultado_por_id = obter_lote_de_analise_por_id(
 
 A documentação completa está disponível com acesso autorizado ao [Console do Desenvolvedor](https://console.granosafe.com.br/docs/industry/analysis-batches).
 
-Também, para mais opções de uso no código deste ´sopeŕepositório, você pode ler os detalhes do que pode ser configurado na [implementação do cliente HTTP](./api.py).
+Também, para mais opções de uso no código deste repositório, você pode ler os detalhes do que pode ser configurado na [implementação do cliente HTTP](./api.py).
